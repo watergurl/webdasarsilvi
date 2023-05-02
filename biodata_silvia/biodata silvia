@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Biodata_Silvia</title>
+    <title>Biodata Silvia</title>
 </head>
 <body>
-<h1><b>Silvia Trianingrum Kurniawati</b></h1>
-   <img src="silviaa.jpg" />
+   <h1><b>Silvia Trianingrum Kurniawati</b></h1>
+   <img src="silviaa.jpg" width="270px" />
 
    <h2><b>Tentang Saya</b></h2>
 
@@ -24,7 +24,7 @@
    <ul>
     <li>SMPN 1 Jonggol, <i>2014 - 2017</i></li>
     <li>SMAN 1 Jonggol, <i>2017 - 2020</i></li>
-    <li>Universitas Nasional Jakarta, <li>2020 - Sekarang</li>
+    <li>Universitas Nasional Jakarta, <li>2020 - Sekarang</li></li>
    </ul>
 
 </body>
